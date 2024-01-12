@@ -1,10 +1,16 @@
-# Testes automatizados com Cypress - Básico
+# Repositório de Estudos (Fork): Cypress Básico
+
+Bem-vindo(a) ao meu fork do repositório de testes automatizados com Cypress - Básico! Este é um curso incrível que estou seguindo, e este repositório contém minhas modificações e aprendizados.
+
+------ 
+
+## Testes automatizados com Cypress - Básico
 
 👋 Seja bem-vindo(a)!
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-## O que você vai aprender
+### O que você vai aprender
 
 Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
 
@@ -20,7 +26,7 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 - Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como criar uma documentação mínima para seu projeto de testes automatizados
 
-## Vamos começar?
+### Vamos começar?
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
